@@ -43,4 +43,3 @@ echo ""
 echo "Partições"
 echo "$(df -h)"
 
-
