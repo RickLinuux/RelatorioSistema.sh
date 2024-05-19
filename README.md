@@ -54,8 +54,6 @@ O script realiza uma verificação em arquivos de texto que contêm informaçõe
 | /dev/sda1 | 256M | 34M | 223M | 14% | /boot/efi |
 | tmpfs | 788M | 48K | 788M | 1% | /run/user/1000 |
 
-Espero que isso ajude!
-
 
 
 
